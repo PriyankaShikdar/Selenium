@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CSharpFundas": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
